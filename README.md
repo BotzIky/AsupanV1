@@ -1,7 +1,7 @@
 # AsupanV1
 📂 Database Asupan by [Gakkari](https://t.me/Gakkari)
 
-## ```Fetch to:```
+## ```Fetch to```
 ```
 https://raw.githubusercontent.com/BotzIky/AsupanV1/main/database.json
 ```
