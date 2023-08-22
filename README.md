@@ -1,5 +1,5 @@
 # AsupanV1
-📂 Database Asupan by [Gakkari](t.me/Gakkari)
+📂 Database Asupan by [Gakkari](https://t.me/Gakkari)
 
 ## ```Fetch to:```
 ```
